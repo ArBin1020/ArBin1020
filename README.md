@@ -1,6 +1,8 @@
 <img src="https://github.com/ArBin1020/ArBin1020/blob/main/imbun.svg"/>
-<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250">
 
+![](https://leetcode.card.workers.dev/sxbin?theme=dark&font=baloo&extension=null)
+<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250">
+<br>
 <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 
