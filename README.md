@@ -41,10 +41,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=ArBin1020&theme=algolia" />
 </div>
 
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/sxbin?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" />
-</div>
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="s.x.bin1020@gmail.com" >
@@ -62,5 +58,6 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArBin1020&label=Profile%20views&color=0e75b6&style=flat" alt="ArBin1020" /> </p>
 </div>
