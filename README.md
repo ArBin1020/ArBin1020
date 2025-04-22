@@ -12,7 +12,7 @@
 - 🎓 Will pursue a **Master’s degree in CISE (Computer and Information Science and Engineering)** at **National Chung Cheng University (CCU)**
 - 🧪 Joining the **System Core Design Lab**, focusing on **operating systems, embedded systems**, and **system-level architecture**
 - 🧠 Committed to solving **one LeetCode problem every day** to continuously improve algorithmic thinking and coding fluency
-- 🗂️ Planning to expand open-source contributions and publish technical blog posts on system design and AI integration
+- 🗣️ Actively improving my English skills, especially in technical reading and speaking, to communicate more confidently in global tech communities
 
 📫 Feel free to reach out or collaborate on something exciting!
 
@@ -43,7 +43,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="s.x.bin1020@gmail.com" >
+  <a href="mailto:s.x.bin1020@gmail.com">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
