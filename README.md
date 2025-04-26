@@ -9,7 +9,7 @@
 
 ### 📌 Recent Plans & Goals
 
-- 🎓 Will pursue a **Master’s degree in CISE (Computer and Information Science and Engineering)** at **National Chung Cheng University (CCU)**
+- 🎓 Will pursue a **Master’s degree in CSIE (Computer and Science Information and Engineering)** at **National Chung Cheng University (CCU)**
 - 🧪 Joining the **System Core Design Lab**, focusing on **operating systems, embedded systems**, and **system-level architecture**
 - 🧠 Committed to solving **one LeetCode problem every day** to continuously improve algorithmic thinking and coding fluency
 - 🗣️ Actively improving my English skills, especially in technical reading and speaking, to communicate more confidently in global tech communities
