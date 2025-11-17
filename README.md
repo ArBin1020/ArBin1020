@@ -3,16 +3,8 @@
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - 👋 Hi there! I'm **Xiang-Bin Shi** — you can also call me **ArBin**
-- 🎓 Recently graduated from **National Taichung University of Science and Technology**
-- 💻 Major in **Computer Science and Information Engineering**
-- 🌏 Based in **Taiwan**, always eager to learn and explore global tech trends
-
-### 📌 Recent Plans & Goals
-
-- 🎓 Will pursue a **Master’s degree in CSIE (Computer and Science Information and Engineering)** at **National Chung Cheng University (CCU)**
-- 🧪 Joining the **Operating Systems Lab**, focusing on **operating systems, embedded systems**, and **system-level architecture**
-- 🧠 Committed to solving **one LeetCode problem every day** to continuously improve algorithmic thinking and coding fluency
-- 🗣️ Actively improving my English skills, especially in technical reading and speaking, to communicate more confidently in global tech communities
+- 🎓 Currently studying at **Graduate Institute of Computer Science and Information Engineering, National Chung Cheng University (CCU)**
+- 💻 Member of the **Operating Systems Lab**, focusing on **Operating Systems** and **Embedded Systems**
 
 📫 Feel free to reach out or collaborate on something exciting!
 
